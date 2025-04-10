@@ -1,0 +1,1 @@
+These are my Red Team Ops notes
